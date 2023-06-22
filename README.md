@@ -4,7 +4,7 @@ Designed a simple CLI-based system that helps in adding two binary numbers.
 
 ## Setup main.py file: -
 * Clone the repository using this command: ` git clone git@github.com:heylightning/add-binary.git `
-* Run **main.py** using this command: ` python main.py `
+* Run **main.py** file using this command: ` python main.py `
 
 *Note: These requirements are staged for version 1.0.0*
 
